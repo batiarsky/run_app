@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/activity_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_bolt"
+        android:title="@string/bottom_navigation_activity_text" />
+    <item
+        android:id="@+id/statistics_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_statistic"
+        android:title="@string/bottom_navigation_statistics_text" />
+    <item
+        android:id="@+id/settings_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/bottom_navigation_settings_text" />
+</menu>

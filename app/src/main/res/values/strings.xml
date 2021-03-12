@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Run Champ</string>
+
+    <!--Bottom navigation-->
+    <string name="bottom_navigation_activity_text">Activity</string>
+    <string name="bottom_navigation_statistics_text">Statistics</string>
+    <string name="bottom_navigation_settings_text">Settings</string>
+
+    <!--Start Fragment-->
+    <string name="start_fragment_start_text">Start</string>
+    <string name="start_fragment_stop_text">Stop</string>
+    <string name="start_fragment_continue_text">Continue</string>
+    <string name="start_fragment_pause_text">Pause</string>
+    <string name="start_fragment_unlock_text">Unlock</string>
+    <string name="start_fragment_lock_text">Lock</string>
+    <string name="start_fragment_activity_progress_text">Activity Progress</string>
+    <string name="start_fragment_distance_text">Distance: %1$s</string>
+    <string name="start_fragment_duration_text">Duration: %1$s</string>
+    <string name="start_fragment_pace_text">Pace: %1$s</string>
+    <string name="start_fragment_burned_calories_text">Burned calories: %1$s</string>
+    <string name="start_fragment_time_text">Time: %1$s</string>
+</resources>
